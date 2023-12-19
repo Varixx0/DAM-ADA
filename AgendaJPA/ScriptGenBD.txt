@@ -1,0 +1,6 @@
+CREATE TABLE `adaagendajpa`.`clientes` (
+  `AI` INT NOT NULL,
+  `nombre` VARCHAR(45) NULL,
+  `apellidos` VARCHAR(45) NULL,
+  `email` VARCHAR(45) NULL,
+  PRIMARY KEY (`AI`));
